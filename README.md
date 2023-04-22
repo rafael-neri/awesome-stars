@@ -40,7 +40,7 @@
 ## Astro
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 237604 |
+| 1 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 237606 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -74,7 +74,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Coding](https://github.com/Avinash987/Coding) | Data Structures and Algorithms (DSA) Preparation sheet | Avinash987 | 920 |
-| 2 |  [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | microsoft | 88463 |
+| 2 |  [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | microsoft | 88464 |
 | 3 |  [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | tensorflow | 173622 |
 | 4 |  [neutralinojs](https://github.com/neutralinojs/neutralinojs) | Portable and lightweight cross-platform desktop application development framework | neutralinojs | 6552 |
 | 5 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 106954 |
@@ -185,7 +185,7 @@
 | 19 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 63561 |
 | 20 |  [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | ⚡️ Front End interview preparation materials for busy engineers | yangshun | 37174 |
 | 21 |  [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! | sudheerj | 28787 |
-| 22 |  [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (December 2022) | goldbergyoni | 21268 |
+| 22 |  [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (December 2022) | goldbergyoni | 21269 |
 | 23 |  [Map-of-Javascript](https://github.com/mechaniac/Map-of-Javascript) | Javascript on one sheet. (and one for algorithms) | mechaniac | 1732 |
 | 24 |  [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw | Asabeneh | 20354 |
 | 25 |  [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | microsoft | 68933 |
@@ -194,8 +194,8 @@
 | 28 |  [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, &amp; extras. | lodash | 56131 |
 | 29 |  [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | expressjs | 60643 |
 | 30 |  [node](https://github.com/nodejs/node) | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | nodejs | 94852 |
-| 31 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 168827 |
-| 32 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 163020 |
+| 31 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 168829 |
+| 32 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 163021 |
 | 33 |  [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. | TheAlgorithms | 26258 |
 | 34 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 110719 |
 | 35 |  [turbo-json-parse](https://github.com/mafintosh/turbo-json-parse) | Turbocharged JSON.parse for type stable JSON data | mafintosh | 613 |
@@ -265,7 +265,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | awesome-foss | 17624 |
-| 2 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 128312 |
+| 2 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 128313 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -291,14 +291,14 @@
 | 17 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 99550 |
 | 18 |  [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) | How to systematically secure anything: a repository about security engineering | veeral-patel | 9572 |
 | 19 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 135339 |
-| 20 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 255236 |
-| 21 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 198514 |
+| 20 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 255237 |
+| 21 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 198516 |
 | 22 |  [CarreiraPHP](https://github.com/abraphp/CarreiraPHP) | Sugestões de descrição de carreiras e cargos | abraphp | 454 |
 | 23 |  [pilares-design-codigo](https://github.com/asouza/pilares-design-codigo) |  | asouza | 379 |
 | 24 |  [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) | A public list of open-source challenges from jobs around the world | CollabCodeTech | 5645 |
 | 25 |  [awesome-elixir-cqrs](https://github.com/slashdotdash/awesome-elixir-cqrs) | A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources. | slashdotdash | 647 |
 | 26 |  [vagas-junior-estagio](https://github.com/alinebastos/vagas-junior-estagio) | Empresas que constantemente oferecem vagas para junior e estagiários sem exigir experiência prévia | alinebastos | 2553 |
-| 27 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile READMEs 📝 | abhisheknaiidu | 17608 |
+| 27 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile READMEs 📝 | abhisheknaiidu | 17609 |
 | 28 |  [google-io-here-we-go](https://github.com/juarezpaf/google-io-here-we-go) | Google I/O 2015 - Here we go | juarezpaf | 30 |
 | 29 |  [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | A public list of open-source challenges from companies around the world | felipefialho | 11703 |
 | 30 |  [cursos-gratuitos](https://github.com/davidalves1/cursos-gratuitos) | Lista com diversos cursos gratuitos na área de TI | davidalves1 | 18 |
@@ -338,7 +338,7 @@
 | 64 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 68374 |
 | 65 |  [drupal-best-practices](https://github.com/alehkot/drupal-best-practices) | Pieces of advice on Drupal security, performance and successful websites&#39; launches. | alehkot | 23 |
 | 66 |  [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Lista de empresas com trabalho remoto no Brasil | lerrua | 4399 |
-| 67 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 138186 |
+| 67 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 138187 |
 | 68 |  [awesome-github](https://github.com/Kikobeats/awesome-github) | An exquisite list of awesome :octocat: secrets. | Kikobeats | 584 |
 | 69 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 40632 |
 | 70 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 28532 |
@@ -465,7 +465,7 @@
 | 8 |  [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) | Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. | tiangolo | 11694 |
 | 9 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 29625 |
 | 10 |  [flakeheaven](https://github.com/flakeheaven/flakeheaven) | flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration. | flakeheaven | 145 |
-| 11 |  [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. | OpenBB-finance | 21616 |
+| 11 |  [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. | OpenBB-finance | 21618 |
 | 12 |  [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | Fork of the python-language-server project, maintained by the Spyder IDE team and the community | python-lsp | 1073 |
 | 13 |  [python-language-server](https://github.com/palantir/python-language-server) | An implementation of the Language Server Protocol for Python | palantir | 2542 |
 | 14 |  [emmett](https://github.com/emmett-framework/emmett) | The web framework for inventors | emmett-framework | 830 |
@@ -476,7 +476,7 @@
 | 19 |  [typer](https://github.com/tiangolo/typer) | Typer, build great CLIs. Easy to code. Based on Python type hints. | tiangolo | 10992 |
 | 20 |  [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | python-poetry | 24715 |
 | 21 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 37194 |
-| 22 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 237136 |
+| 22 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 237137 |
 | 23 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 218299 |
 | 24 |  [ansible-podman-collections](https://github.com/containers/ansible-podman-collections) | Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool | containers | 207 |
 | 25 |  [podman-compose](https://github.com/containers/podman-compose) | a script to run docker-compose.yml using podman | containers | 3836 |
@@ -485,7 +485,7 @@
 | 28 |  [Ciphey](https://github.com/Ciphey/Ciphey) | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ | Ciphey | 13213 |
 | 29 |  [Flask-MVC-Template](https://github.com/CharlyJazz/Flask-MVC-Template) | Flask-MVC Template It is a template with &#34;batteries included&#34; created for the fast development of applications in the microframework flask :snake: | CharlyJazz | 57 |
 | 30 |  [whatskit](https://github.com/mhsabbagh/whatskit) | A standalone desktop window for web.whatsapp.com. | mhsabbagh | 1 |
-| 31 |  [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | tiangolo | 56972 |
+| 31 |  [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | tiangolo | 56973 |
 | 32 |  [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | CorentinJ | 41130 |
 | 33 |  [OmniPause](https://github.com/mel00010/OmniPause) | Control all of your media players with a single command | mel00010 | 34 |
 | 34 |  [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Django 3, React, Bootstrap 4 with Python 3 and webpack project boilerplate | vintasoftware | 1570 |
@@ -498,7 +498,7 @@
 | 41 |  [explainshell](https://github.com/idank/explainshell) | match command-line arguments to their help text | idank | 11846 |
 | 42 |  [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) | A curated list of awesome tools for SQLAlchemy | dahlia | 2593 |
 | 43 |  [awesome-aws](https://github.com/donnemartin/awesome-aws) | A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. | donnemartin | 11413 |
-| 44 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 165231 |
+| 44 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 165232 |
 | 45 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 16277 |
 | 46 |  [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | pallets | 62656 |
 
@@ -616,7 +616,7 @@
 | 33 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 17995 |
 | 34 |  [jest](https://github.com/jestjs/jest) | Delightful JavaScript Testing. | jestjs | 41845 |
 | 35 |  [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 | nestjs | 56071 |
-| 36 |  [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | microsoft | 90590 |
+| 36 |  [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | microsoft | 90591 |
 | 37 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more | gothinkster | 74040 |
 | 38 |  [typeorm](https://github.com/typeorm/typeorm) | ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. | typeorm | 31035 |
 | 39 |  [vue-state-store](https://github.com/AhaOfficial/vue-state-store) | 📮  VSS (Vue State Store) - Vue State Management (with Publish &amp; Subscribe pattern) | AhaOfficial | 129 |
@@ -630,9 +630,9 @@
 | 47 |  [hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | vercel | 40736 |
 | 48 |  [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards &amp; USB drives, safely and easily. | balena-io | 25357 |
 | 49 |  [nativefier](https://github.com/nativefier/nativefier) | Make any web page a desktop application | nativefier | 33395 |
-| 50 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 364807 |
+| 50 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 364808 |
 | 51 |  [electron-with-express](https://github.com/frankhale/electron-with-express) | A simple app that demonstrates spawning an Express app from Electron | frankhale | 570 |
-| 52 |  [vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | vuejs | 203246 |
+| 52 |  [vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | vuejs | 203247 |
 | 53 |  [caprine](https://github.com/sindresorhus/caprine) | Elegant Facebook Messenger desktop app | sindresorhus | 6631 |
 
 **[⬆ Back to Index](#-contents)**
