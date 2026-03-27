@@ -613,7 +613,7 @@
 | 170 |  [core](https://github.com/flightphp/core) | An extensible micro-framework for PHP | flightphp | 2850 |
 | 171 |  [octane](https://github.com/laravel/octane) | Supercharge your Laravel application&#39;s performance. | laravel | 4003 |
 | 172 |  [php-ddd-example](https://github.com/CodelyTV/php-ddd-example) | 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7 | CodelyTV | 3133 |
-| 173 |  [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | squizlabs | 10789 |
+| 173 |  [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | squizlabs | 10789 |
 | 174 |  [laravel-mongodb](https://github.com/mongodb/laravel-mongodb) | A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) | mongodb | 7084 |
 | 175 |  [collision](https://github.com/nunomaduro/collision) | 💥 Collision is a beautiful error reporting tool for command-line applications | nunomaduro | 4643 |
 | 176 |  [larastan](https://github.com/larastan/larastan) | ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. | larastan | 6335 |
